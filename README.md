@@ -1,6 +1,6 @@
 # My Package - Python Boilerplate
 
-A Python package boilerplate built with `uv`, `ruff`, and Python 3.13.
+A Python package boilerplate built with `uv`, `ruff`, and Python 3.12.
 
 ## ✅ Current Status
 
