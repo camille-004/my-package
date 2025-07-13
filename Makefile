@@ -18,11 +18,11 @@ help:
 
 install:
 	@echo "Installing the package..."
-	uv -pip install -e .
+	uv pip install -e .
 
 install-dev:
 	@echo "Installing the package in development mode..."
-	uv -pip install -e .[dev]
+	uv pip install -e .[dev]
 
 sync:
 	@echo "Synchronizing dependencies..."
