@@ -36,7 +36,7 @@ Repository = "https://github.com/camille-004/your-awesome-package"
 Issues = "https://github.com/camille-004/your-awesome-package/issues"
 
 [project.scripts]
-your-awesome-package: "your_package.main:main"  # Update CLI command name
+your-awesome-package = "your_package.main:main"  # Update CLI command name
 
 [tool.ruff.lint.isort]
 known-first-party = ["your_package"]  # Update package name
